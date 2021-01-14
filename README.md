@@ -111,7 +111,7 @@
 请进入 Actions，Enable workflow
 
 ![enable](https://cdn.jsdelivr.net/gh/LingSiKi/images/img/enable.png)
-
+  
 ### 3、我们学校要求打卡的时间不一样，这个自动运行的时间该怎么修改？
 
 进入 `.github/workflows/run.yml `修改时间，请不要搁那掐着秒算程序运行，你设置好了，明天就一定能好好运行，Giuhub Actions大概会有10~20分钟的延迟
